@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="852bfe1f-a230-4fca-ad65-560d607744f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../customizespring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespring/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespring/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespring/customizespring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/customizespringweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../customizespringweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/artifacts/handwritten_mvc_example_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/artifacts/handwritten_mvc_example_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/handwritten-mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__com_alibaba_fastjson_1_2_49.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__commons_dbutils_commons_dbutils_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__org_apache_commons_commons_dbcp2_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/handwritten-mvc-example.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/target/handwritten-mvc-framwork.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-example/target/handwritten-mvc-framwork/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../handwritten-mvc/handwritten-mvc-framework/handwritten-mvc-framework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/annotation/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/aspect/DynamicDataSourceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/config/datasourceconfig/DataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/config/datasourceconfig/DataSourceContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/config/datasourceconfig/DataSourceProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/config/datasourceconfig/DynamicDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/controller/DataSourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/dao/User2Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/domain/UserDomain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/enums/DataSourceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/mapper/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/java/com/example/multidatasource/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../multidatasource/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable/shardingtable.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/domain/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/mapper/OrderMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/mapper/UserInfoMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/service/DemoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/java/com/example/shardingtable/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../shardingtable2/src/main/resources/mapper/UserInfoMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/annotation/EnableEcho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/annotation/Log.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/controller/LogController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/dto/UserDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/interceptor/LogMethodInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/logs/LogProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/points/LogAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/proccess/BamuImportBeanDefinitionRegistrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/proccess/EchoBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/redis/RedisAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/redis/RedisProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/service/SimpleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/java/com/john/springbootstarterredis/vo/UserVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-redis/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-site/src/main/java/com/john/springbootstartersite/site/SiteInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-site/src/main/java/com/john/springbootstartersite/site/SiteInformationAutoConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-site/src/main/java/com/john/springbootstartersite/site/SiteInformationProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring-boot-starter-site/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base/spring_base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base_study/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base_study/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base_study/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base_study/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base_study/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_base_study/spring_base_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/spring_ioc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/annotation/Autowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/annotation/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/annotation/RequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/annotation/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/constants/ConfigConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/enums/RequestMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/utils/BeanHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/utils/ClassHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/utils/ClassUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/utils/ConfigHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/utils/IocHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/utils/PropsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/java/com/study/utils/ReflectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/annotation/Autowired.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/annotation/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/annotation/RequestMapping.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/annotation/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/constants/ConfigConstant.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/enums/RequestMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/utils/BeanHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/utils/ClassHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/utils/ClassUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/utils/ConfigHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/utils/IocHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/utils/PropsUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/classes/com/study/utils/ReflectionUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../spring_ioc/target/spring_ioc-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_mvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/handler/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/request/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/study/utils/ControllerHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/asm-3.3.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/cglib-2.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/commons-collections4-4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/commons-dbcp2-2.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/commons-dbutils-1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/commons-lang3-3.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/commons-logging-1.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/commons-pool2-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/fastjson-1.2.49.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.33.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/spring_mvv-1.0-SNAPSHOT/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/spring_base.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/CheckNowTime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/advice/AccountAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/aspect/AccountAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/client/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/client/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/controller/AnnotationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/controller/HttpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/controller/MyController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/controller/SimpleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/controller/TestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/cycle/Lifecycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/cycle/Phased.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/cycle/SmartLifecycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/dao/AccountDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/dao/IBookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/dao/impl/AccountDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/dao/impl/BookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/dao/impl/UserDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/dispatch/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/example/AnotherExampleBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/example/CustomBeanPostProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/example/CustomBeanPostProcessor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/example/CustomBeanPostProcessor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/example/ExampleBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/handler/HandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/handler/impl/AnnotationHandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/handler/impl/HttpHandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/handler/impl/SimpleHandlerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/proxy/AccountProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/service/ExampleBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/service/IBookService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/service/impl/BookServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/com/study/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/java/spring-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/resources/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/webapp/WEB-INF/jsps/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/webapp/WEB-INF/springmvc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_base_study/spring_base_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/annotation/IocResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/annotation/IocService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/context/SpringContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/service/IOrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/service/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/test/SpringIocTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_ioc_study/src/main/java/com/spring/ioc/utils/ClassUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/data/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/dispatch/DispatcherServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/filter/TestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/handler/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/param/Param.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/request/Request.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/service/IUserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/utils/ControllerHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/utils/HelperLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/utils/RequestHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/java/com/spring/mvc/view/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/webapp/WEB-INF/view/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_mvc/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_servlet/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_servlet/src/main/java/com/spring/servlet/ServletDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/spring_study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/advice/AccountAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/aop/AccountAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/aop/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/aop/BaseAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/aop/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/aop/ProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/proxy/AccountProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/service/AccountAdvice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/service/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/java/com/spring/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/resources/ApplicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/webapp/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/spring_study/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/annocation/Autowired.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/annocation/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/annocation/RequestMapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/annocation/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/constants/ConfigConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/enums/RequestMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/utils/BeanHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/utils/ClassHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/utils/ClassUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/utils/ConfigHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/utils/IocHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/utils/PropsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/java/com/spring/utils/ReflectionUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springframework/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springmvc/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springweb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springweb/springwebquickstart/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/annotation/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/annotation/BehaviorDesc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/annotation/DataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/annotation/EnableDynamicDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/annotation/TraceLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/aspect/AuthenticationAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/aspect/BehaviorDescAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/aspect/DynamicDataSourceAspect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/aspect/TraceLogSupport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/config/DataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/config/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/config/datasource/DataSourceContextHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/config/datasource/DataSourceProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/config/datasource/DataSourceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/config/datasource/DynamicDataSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/controller/DataSourceController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/controller/SiteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/dao/User2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/domain/TUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/dto/LoginParam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/gener/CustomizeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/gener/UuidGenId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/service/SimpleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../starterweb/src/main/java/com/example/starterweb/service/UserService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1dhyrEOIC1Tt7s5bfqO2P4N0o2S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.study.handler" />
+      <recent name="com.study.request" />
+      <recent name="com.study.utils" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="852bfe1f-a230-4fca-ad65-560d607744f6" name="Default Changelist" comment="" />
+      <created>1592891815865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592891815865</updated>
+      <workItem from="1592891819287" duration="5335000" />
+      <workItem from="1592963277077" duration="598000" />
+      <workItem from="1593307715104" duration="523000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1592891950905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592891950905" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1592891950905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592891950905" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1592891950904">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592891950904" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1592891950905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592891950905" />
+  </component>
+</project>
